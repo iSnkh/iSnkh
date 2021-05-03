@@ -9,5 +9,5 @@
 ### Connect with me: 
 
 - ⚡ Email: seith@synezia.com
-- ⚡ Discord: seith#3693
+- ⚡ Discord: seith#0001
 - ⚡ Telegram: Seithh
