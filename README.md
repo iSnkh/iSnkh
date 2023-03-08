@@ -1,12 +1,6 @@
-### Hi there, I'm Alexis - aka Seith
-
-## ex-Student at @42School and founder of @SyneziaSoft 
-
-- 👯 previously behind @SyneziaRaffles, @SourceRaffles
-- 👯 Language(s) & Tool(s): C, Solidity, Java, PHP, JS (TypeScript too) & Python. - Docker, Node.js & Web3 
-- ⚡ Student, Developer, Reverse Engineer & more, fell free to reach me for any cool projects! 
-
-### Connect with me: 
-
-- ⚡ Email: seith@synezia.com
-- ⚡ Discord: seith#3166
+<p align="center"><img src="https://i.imgur.com/BA2w8tl.png" /></p>
+<p align="center">
+  <a href="https://twitter.com/7eith">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</p>
